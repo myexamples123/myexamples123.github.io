@@ -97,7 +97,7 @@ ul.main_nav li:first-child a{
 	border-left: 1px #1e1e1e solid; 
 }
 
-ul.main_nav li.current a{
+/*ul.main_nav li.current a{
 	color: #58c93a;
 	box-shadow: 0 4px 0 #58c93a; 
 }
